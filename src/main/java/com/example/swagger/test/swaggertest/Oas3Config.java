@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 @OpenAPIDefinition(info = @Info(title = "REST API", version = "1.0",
         description = "REST API description...",
-        contact = @Contact(name = "Name Surname"))
+        contact = @Contact(name = "Guillaume GALLOIS"))
 )
 public class Oas3Config {
 
