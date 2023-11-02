@@ -5,7 +5,7 @@ springdoc-test
  - http://localhost:8080/v3/api-docs
  - http://localhost:8080/v3/api-docs.yaml
 
-## jackson.serialization.wrap_root_value=true => KO avec Swagger
+## jackson.serialization.wrap_root_value=true => KO with Swagger
 
  - https://github.com/springfox/springfox/issues/597
  - https://github.com/springfox/springfox/issues/2157
